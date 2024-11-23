@@ -30,6 +30,8 @@ This project is licensed under the MIT license.
   ## Testing
   Open the project in your code editor and create a new terminal. Use the command "psql -U postgres" to open Postgres and the command \i db/schema.sql" to create the database. You can also embed the seed data included using the command "\i db/seeds.sql". Exit Postgres using the command "\q". Then use the command "node index.js" to run the file using Node.js. Choose the necessary option and follow the input prompts as necessary.
 
+  See this walkthrough video for a demonstration: https://app.screencastify.com/v2/manage/videos/DG6fZHIiF5KiUqBxYoAz
+
   ## Contacts
   For questions and/or business inquiries, please reach out to me at:
   - GitHub: [HashemE1999](https://github.com/HashemE1999)
